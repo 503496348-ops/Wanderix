@@ -1,0 +1,16 @@
+{
+  "name": "PLOC_治愈手账涂鸦",
+  "version": "1.0.0",
+  "description": "ins风治愈手账涂鸦装饰，白色手绘线条+繁体大字标注",
+  "default_size": "3:4",
+  "requires_vlm": true,
+  "vlm_prompt": "列出图片中可标注的元素（景物/人物/装饰细节）",
+  "prompt_template": "ins風格治愈手賬裝飾，白色纖細手繪線條勾勒畫面裡所有物體輪廓，搭配虛線、小圓圈可愛箭頭指向景物，字體要大、要粗、要清晰明顯，起筆收筆痕跡，鋼筆書寫質感，不改變原圖畫面、不改動原圖色調，只增加白色手繪標注裝飾，溫柔日系氛圍感。",
+  "negative_constraints": "不要改變原圖主體，不要添加任何文字內容（除大字標註外），不要使用粗黑體字，保持畫面純淨。",
+  "annotation_format": "繁體中文，3-5條，格式：詞彙 ✦ 詞彙 ✦ 詞彙",
+  "example_annotations": ["花園時光 ✦ 玫瑰與少年 ✦ 城市綠洲", "海邊漫步 ✦ 風與遠方 ✦ 溫柔日常"],
+  "reference_behavior": "identity_anchor",
+  "created": "2026-05-10",
+  "updated": "2026-05-16",
+  "author": "小乖"
+}

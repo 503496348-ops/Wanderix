@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-05-16",
+  "templates": {
+    "PLOC_治愈手账涂鸦": {
+      "name": "PLOC_治愈手账涂鸦",
+      "description": "旅行/风景照片加手账装饰风格，ins风白色手绘线条+繁体大字标注",
+      "path": "user/PLOC_治愈手账涂鸦.json",
+      "engine": "engine.py",
+      "default_size": "3:4",
+      "requires_vlm": true,
+      "tags": ["手账", "PLOC", "治愈", "旅行", "涂鸦"],
+      "author": "小乖",
+      "created": "2026-05-10",
+      "updated": "2026-05-16"
+    }
+  }
+}
