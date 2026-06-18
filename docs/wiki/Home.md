@@ -39,18 +39,18 @@ AI 探索交流群 -音乐达人	https://applink.feishu.cn/client/chat/chatter/a
 AI 探索交流群 -微笑驿站	https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=f2av73d0-6bb4-4a9f-9095-5fbbe83e49ec
 
 
-【T1-学习文档-文档整理】全球最全的LLM/Agent/PRD/MRD/BRD/Claude Code/全行业研究报告-知识库 https://vcnvmnln7wit.feishu.cn/wiki/WpK2wAcV8i6P8tke8X9cLcmDnSh
+【T1-学习文档-文档整理】全球最全的LLM/Agent/PRD/MRD/BRD/Hermes Agent/全行业研究报告-知识库 https://vcnvmnln7wit.feishu.cn/wiki/WpK2wAcV8i6P8tke8X9cLcmDnSh
 【T1-学习文档-商业化案例】智能体实验室-孵化成功跑通的商业化案例库 https://vcnvmnln7wit.feishu.cn/wiki/LdIxwlrKGibFEVkWMocc2K9KnBh
 【T1-学习文档-文档整理】AI扫盲班从小白到高手的进阶之路
 【T2-学习文档-文档整理】PRD/MRD产品文档合集
-【T3-学习文档-文档整理】Claude Code合集
+【T3-学习文档-文档整理】Hermes Agent合集
 【T4-学习文档-文档整理】各类行业研究报告
 【T5-学习文档-文档整理】Skill封装合集
 【T0-学习文档-修复手册】OpenClaw踩坑修复经验V3.0 
 知识库动态
 
 📞 联系我们&加入我们
-- 知识空间管理员：@陈宇锋 @jkl @麻辣酱在广州教数学 @欢喜 @PR @李渔樵 
+- 知识空间管理员：@智械工坊 @jkl @麻辣酱在广州教数学 @欢喜 @PR @李渔樵 
 - 问题反馈：如有任何使用问题或建议，请在知识空间反馈群中留言
 
 
